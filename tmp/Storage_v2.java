@@ -16,7 +16,7 @@ public class Storage<T>
     
     public Storage(int size)
     {
-        storage = new Object[DEFAULT_INITIAL_SIZE];
+        storage = new Object[size];
     }
     
     public Storage(Storage st)
