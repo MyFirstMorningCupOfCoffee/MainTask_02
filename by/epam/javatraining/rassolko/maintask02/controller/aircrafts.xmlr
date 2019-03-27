@@ -1,0 +1,81 @@
+<aircraft>
+    <model>AN-2</model>
+    <type>PassengerAirliner</type>
+    <baseweight>9874</baseweight>
+    <engines>
+        <quantity>2</quantity>
+        <type>JET</type>
+        <model>BMW XXH-930</model>
+    </engines>
+    <fueltanks>
+        <quantity>2</quantity>
+        <capacity>1000</capacity>
+    </fueltanks>
+    <fuel>AVIATION_TURBINE_FUEL</fuel>
+    <payload>1000</payload>
+    <range>380</range>
+    <runway_length>340</runway_length>
+    <seats>10</seats>
+</aircraft>
+
+<aircraft>
+    <model>AN-3</model>
+    <type>PassengerAirliner</type>
+    <baseweight>9874</baseweight>
+    <engines>
+        <quantity>1</quantity>
+        <type>JET</type>
+        <model>BMW XXH-1000</model>
+    </engines>
+    <fueltanks>
+        <quantity>2</quantity>
+        <capacity>1000</capacity>
+    </fueltanks>
+    <fuel>AVIATION_TURBINE_FUEL</fuel>
+    <payload>1000</payload>
+    <range>350</range>
+    <runway_length>340</runway_length>
+    <seats>12</seats>
+</aircraft>
+
+<aircraft>
+    <model>Boeng-787</model>
+    <type>CargoAirliner</type>
+    <baseweight>9874</baseweight>
+    <engines>
+        <quantity>1</quantity>
+        <type>JET</type>
+        <model>BMW XXH-1000</model>
+    </engines>
+    <fueltanks>
+        <quantity>2</quantity>
+        <capacity>1000</capacity>
+    </fueltanks>
+    <fuel>AVIATION_TURBINE_FUEL</fuel>
+    <payload>1000</payload>
+    <range>350</range>
+    <runway_length>340</runway_length>
+    <loading_gates>
+		<height>5</height>
+		<width>7</width>
+	</loading_gates>
+</aircraft>
+
+<aircraft>
+    <model>MI-8</model>
+    <type>Helicopter</type>
+    <baseweight>9874</baseweight>
+    <engines>
+        <quantity>1</quantity>
+        <type>JET</type>
+        <model>BMW XXH-1000</model>
+    </engines>
+    <fueltanks>
+        <quantity>1</quantity>
+        <capacity>1000</capacity>
+    </fueltanks>
+    <fuel>AVIATION_TURBINE_FUEL</fuel>
+    <payload>2800</payload>
+    <range>211</range>
+	<seats>8</seats>
+</aircraft>
