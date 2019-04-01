@@ -1,0 +1,83 @@
+<aircraft>
+    <model>AN-2</model>
+    <type>PassengerAirliner</type>
+    <baseweight>9874</baseweight>
+    <engines>
+        <quantity>2</quantity>
+        <type>JET</type>
+    </engines>
+    <fuel>
+        <capacity>1000</capacity>
+		    <type>AVIATION_TURBINE_FUEL</type>
+    </fuel>
+    <payload>1000</payload>
+    <range>380</range>
+    <runway_length>340</runway_length>
+    <seats>10</seats>
+</aircraft>
+
+<aircraft>
+    <model>AN-3</model>
+    <type>PassengerAirliner</type>
+    <baseweight>10911</baseweight>
+    <engines>
+        <quantity>1</quantity>
+        <type>JET</type>
+    </engines>
+    <fuel>
+        <capacity>1300</capacity>
+		    <type>AVIATION_TURBINE_FUEL</type>
+    </fuel>
+    <payload>1000</payload>
+    <range>420</range>
+    <runway_length>320</runway_length>
+    <seats>3</seats>
+</aircraft>
+
+<aircraft>
+    <model>Boeng-787</model>
+    <type>CargoAirliner</type>
+    <baseweight>9874</baseweight>
+    <engines>
+        <quantity>1</quantity>
+        <type>JET</type>
+    </engines>
+    <fuel>
+        <capacity>3000</capacity>
+		    <type>AVIATION_TURBINE_FUEL</type>
+    </fuel>
+    <payload>1000</payload>
+    <range>350</range>
+    <runway_length>340</runway_length>
+    <loading_gates>
+		<height>5</height>
+		<width>7</width>
+	</loading_gates>
+</aircraft>
+
+<aircraft>
+    <model>MI-8</model>
+    <type>Helicopter</type>
+    <baseweight>9874</baseweight>
+    <engines>
+        <quantity>1</quantity>
+        <type>JET</type>
+    </engines>
+    <fuel>
+        <capacity>300</capacity>
+		    <type>BIOFUEL</type>
+    </fuel>
+    <payload>2800</payload>
+    <range>211</range>
+	<seats>8</seats>
+</aircraft>
+
+<aircraft>
+    <model>Cookie 0117</model>
+    <type>Aerostat</type>
+	  <subtype>HYBRID</subtype>
+    <baseweight>300</baseweight>
+    <payload>800</payload>
+	  <specialDockRequired>true</specialDockRequired>
+	  <navigable>true</navigable>
+</aircraft>
