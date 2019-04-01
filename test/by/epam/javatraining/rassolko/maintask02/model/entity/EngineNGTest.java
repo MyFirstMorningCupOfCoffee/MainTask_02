@@ -1,6 +1,5 @@
 package by.epam.javatraining.rassolko.maintask02.model.entity;
 
-import by.epam.javatraining.rassolko.maintask02.model.entity.Engine;
 import static org.testng.Assert.*;
 import org.testng.annotations.Test;
 
