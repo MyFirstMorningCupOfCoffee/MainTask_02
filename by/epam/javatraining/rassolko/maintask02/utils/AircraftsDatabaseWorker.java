@@ -6,7 +6,7 @@ import org.apache.log4j.Logger;
 // Emulates work with properly built database
 public class AircraftsDatabaseWorker 
 {
-    private static final String XMLR_DATABASE_FILEPATH = "D:\\Users\\Александр\\Desktop\\aircrafts_default_params.xmlr";
+    private static final String XMLR_DATABASE_FILEPATH = "aircrafts_default_params.xmlr";
     private static final Logger LOGGER;
 
     
