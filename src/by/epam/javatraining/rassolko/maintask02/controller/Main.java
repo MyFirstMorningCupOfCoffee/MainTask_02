@@ -1,10 +1,10 @@
 package by.epam.javatraining.rassolko.maintask02.controller;
 
-import by.epam.javatraining.rassolko.maintask02.entity.aircrafts.Aircraft;
-import by.epam.javatraining.rassolko.maintask02.entity.aircrafts.PassengerAirliner;
-import by.epam.javatraining.rassolko.maintask02.utils.AirportsDatabaseWorker;
-import by.epam.javatraining.rassolko.maintask02.entity.Airport;
-import by.epam.javatraining.rassolko.maintask02.utils.AircraftCreator;
+import by.epam.javatraining.rassolko.maintask02.model.entity.aircrafts.Aircraft;
+import by.epam.javatraining.rassolko.maintask02.model.entity.aircrafts.PassengerAirliner;
+import by.epam.javatraining.rassolko.maintask02.logic.AirportsDatabaseWorker;
+import by.epam.javatraining.rassolko.maintask02.model.entity.Airport;
+import by.epam.javatraining.rassolko.maintask02.logic.AircraftCreator;
 import org.apache.log4j.Logger;
 
 public class Main 
@@ -86,6 +86,7 @@ public class Main
         liner1.setState(Aircraft.State.HANGARED);
         liner1.spendFuel(1);
         LOGGER.info(liner1);
+        
         
     }
 
