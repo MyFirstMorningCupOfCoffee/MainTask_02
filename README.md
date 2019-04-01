@@ -1,7 +1,5 @@
 # MainTask_02
 
-Like ___really___ Early alpha.
+Emulates airship company work
 
-A lot of work tbd
-
-BUT: base is kind of ready. -ish.
+Creates airships of various kind, fuel them, move them from one airport to another, etc.
