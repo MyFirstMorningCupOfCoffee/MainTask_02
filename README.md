@@ -4,6 +4,6 @@ Emulates airship company work
 
 Creates airships of various kind, fuel them, move them from one airport to another, etc.
 
-Output HTML file can be read properly here: 
+Output HTML file can be properly read here: 
 
 https://htmlpreview.github.io/?https://github.com/MyFirstMorningCupOfCoffee/MainTask_02/blob/2019-03-31/other%20files/Output.html
