@@ -10,7 +10,7 @@ import org.apache.log4j.Logger;
 // Emulates work with properly built database
 public class AirportsDatabaseWorker 
 {
-    private static final String XMLR_DATABASE_FILEPATH = "D:\\Users\\Александр\\Desktop\\airports.xmlr";
+    private static final String XMLR_DATABASE_FILEPATH = "airports.xmlr";
     private static final Logger LOGGER;
     
     private AirportsDatabaseWorker()
