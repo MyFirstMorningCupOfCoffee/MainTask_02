@@ -1,0 +1,118 @@
+<airport>
+	<name>Lord Nashville airport, GB, Norwich</name>
+	<id>157</id>
+	<location>
+		<latitude>52.634834</latitude>
+		<longitude>1.321189</longitude>
+	</location>
+	<fuel>
+		<aviation_spirit>
+			<capacity>100000</capacity>
+			<quantity>78693</quantity>
+		</aviation_spirit>
+		<aviation_turbine_fuel>
+			<capacity>100000</capacity>
+			<quantity>63911</quantity>
+		</aviation_turbine_fuel>
+		<liquified_natural_gas>
+			<capacity>10000</capacity>
+			<quantity>7863</quantity>
+		</liquified_natural_gas>
+	</fuel>
+	<runway_length>2000</runway_length>
+</airport>
+
+<airport>
+	<name>Rennes air central, FR, Rennes</name>
+	<id>158</id>
+	<location>
+		<latitude>48.076359</latitude>
+		<longitude>-1.688181</longitude>
+	</location>
+	<fuel>
+		<aviation_spirit>
+			<capacity>100000</capacity>
+			<quantity>63000</quantity>
+		</aviation_spirit>
+		<aviation_turbine_fuel>
+			<capacity>100000</capacity>
+			<quantity>97831</quantity>
+		</aviation_turbine_fuel>
+		<liquified_natural_gas>
+			<capacity>10000</capacity>
+			<quantity>1231</quantity>
+		</liquified_natural_gas>
+	</fuel>
+	<runway_length>2510</runway_length>
+</airport>
+
+<airport>
+	<name>Cludad Real, SP, Cludad Real</name>
+	<id>159</id>
+	<location>
+		<latitude>38.890031</latitude>
+		<longitude>-3.936379</longitude>
+	</location>
+	<fuel>
+		<aviation_spirit>
+			<capacity>100000</capacity>
+			<quantity>73611</quantity>
+		</aviation_spirit>
+		<aviation_turbine_fuel>
+			<capacity>100000</capacity>
+			<quantity>51836</quantity>
+		</aviation_turbine_fuel>
+		<liquified_natural_gas>
+			<capacity>10000</capacity>
+			<quantity>8471</quantity>
+		</liquified_natural_gas>
+	</fuel>
+	<runway_length>1100</runway_length>
+</airport>
+
+<airport>
+	<name>Kremenchuk airport, UA, Kremenchuk</name>
+	<id>160</id>
+	<location>
+		<latitude>48.991257</latitude>
+		<longitude>33.382912</longitude>
+	</location>
+	<fuel>
+		<aviation_spirit>
+			<capacity>77000</capacity>
+			<quantity>70611</quantity>
+		</aviation_spirit>
+		<aviation_turbine_fuel>
+			<capacity>77000</capacity>
+			<quantity>11800</quantity>
+		</aviation_turbine_fuel>
+		<liquified_natural_gas>
+			<capacity>10000</capacity>
+			<quantity>250</quantity>
+		</liquified_natural_gas>
+	</fuel>	
+</airport>
+
+<airport>
+	<name>King William airport, CA, King William island</name>
+	<id>161</id>
+	<location>
+		<latitude>68.791162</latitude>
+		<longitude>-95.984671</longitude>
+	</location>
+	<fuel>
+		<aviation_spirit>
+			<capacity>10000</capacity>
+			<quantity>9611</quantity>
+		</aviation_spirit>
+		<aviation_turbine_fuel>
+			<capacity>10000</capacity>
+			<quantity>7800</quantity>
+		</aviation_turbine_fuel>
+		<liquified_natural_gas>
+			<capacity>1000</capacity>
+			<quantity>0</quantity>
+		</liquified_natural_gas>
+	</fuel>
+	<runway_length>500</runway_length>	
+</airport>
